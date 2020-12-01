@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "img": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-    "name": "Product1",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81Rm1xUxw8L._SL1300_.jpg",
+    "name": "Cosmetic",
     "price": 90.00
   },
   {
     "id": 2,
-    "img": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-    "name": "Product2",
+    "img": "https://www.americaskidsinmotion.com/wp-content/uploads/2016/05/product-soccer-ball.jpg",
+    "name": "Ball",
     "price": 80.00
   },
   {
     "id": 3,
-    "img": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-    "name": "Product3",
+    "img": "https://cdn.shopify.com/s/files/1/0638/4395/products/Ech-num-one-3_2040x.jpg?v=1556906516",
+    "name": "Clock",
     "price": 70.00
   },
   {
     "id": 4,
-    "img": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-    "name": "Product4",
+    "img": "https://www.thespruce.com/thmb/nSt_9t_6DhHp-IRHaKBYziRdRz0=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wash-new-clothes-before-wearing-2146345-03-999483b3d51a435ba53c8d9ef5c2d5c4.jpg",
+    "name": "Clothes",
     "price": 60.00
   }
 ]
